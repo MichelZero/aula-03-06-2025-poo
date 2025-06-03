@@ -1,2 +1,3 @@
-# aula-03-06-2025-poo
-aula-03-06-2025-poo
+# Aula 03/06/2025 - Programação Orientada a Objetos
+## Objetivos de hoje:
+### 1- Revisar funções
